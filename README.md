@@ -1,4 +1,4 @@
-# Índice de mi perfil
+# Todos mis repositorios
 
 ## Proyectos
 - [App Mi Plan de Estudios](https://github.com/FranciscoBarberena/App-Mi-Plan-de-Estudios)
